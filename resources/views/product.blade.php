@@ -1,7 +1,7 @@
 @extends('master')
 @section("content")
 
-    <div class="container custom-product"  >
+    <div class="container custom-product">
         <div id="myCarousel" class="carousel slide" data-ride="carousel">
             <!-- Indicators -->
             <ol class="carousel-indicators">
