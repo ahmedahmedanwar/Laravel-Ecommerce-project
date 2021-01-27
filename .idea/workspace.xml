@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbe465f-f1be-4603-b982-30b36901d1ad" name="Default Changelist" comment="" />
+    <list default="true" id="0dbe465f-f1be-4603-b982-30b36901d1ad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/product.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ProductController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ProductController.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +39,9 @@
         <option value="composer.json" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -142,6 +167,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -183,12 +209,27 @@
       <workItem from="1611488355305" duration="3379000" />
       <workItem from="1611514033681" duration="872000" />
       <workItem from="1611569896425" duration="10092000" />
-      <workItem from="1611601017528" duration="483000" />
+      <workItem from="1611601017528" duration="979000" />
+      <workItem from="1611659120359" duration="4496000" />
+      <workItem from="1611671876370" duration="5776000" />
+      <workItem from="1611746135504" duration="84000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="434" y="125" key="#Inspections" timestamp="1611575849434">
@@ -199,9 +240,13 @@
       <screen x="0" y="23" width="1600" height="833" />
     </state>
     <state x="550" y="248" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1600.833@0.23.1600.833" timestamp="1611585682160" />
-    <state x="507" y="194" width="586" height="490" key="find.popup" timestamp="1611506882722">
+    <state x="309" y="78" key="SettingsEditor" timestamp="1611674802347">
       <screen x="0" y="23" width="1600" height="833" />
     </state>
-    <state x="507" y="194" width="586" height="490" key="find.popup/0.23.1600.833@0.23.1600.833" timestamp="1611506882722" />
+    <state x="309" y="78" key="SettingsEditor/0.23.1600.833@0.23.1600.833" timestamp="1611674802347" />
+    <state x="507" y="194" width="586" height="490" key="find.popup" timestamp="1611676886761">
+      <screen x="0" y="23" width="1600" height="833" />
+    </state>
+    <state x="507" y="194" width="586" height="490" key="find.popup/0.23.1600.833@0.23.1600.833" timestamp="1611676886761" />
   </component>
 </project>
