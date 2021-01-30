@@ -1,28 +1,28 @@
 @extends('master')
 @section("content")
 
-    <div class="container custom-product">
+    <div class=" custom-product">
         <div id="myCarousel" class="carousel slide" data-ride="carousel">
             <!-- Indicators -->
-            <ol class="carousel-indicators">
-                <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                <li data-target="#myCarousel" data-slide-to="1"></li>
-                <li data-target="#myCarousel" data-slide-to="2"></li>
-            </ol>
+{{--            <ol class="carousel-indicators">--}}
+{{--                <li data-target="#myCarousel" data-slide-to="0" class="active"></li>--}}
+{{--                <li data-target="#myCarousel" data-slide-to="1"></li>--}}
+{{--                <li data-target="#myCarousel" data-slide-to="2"></li>--}}
+{{--            </ol>--}}
 
             <!-- Wrapper for slides -->
             <div class="carousel-inner">
-                <div class="item active">
-                    <img src="la.jpg" alt="Los Angeles">
-                </div>
+                @foreach($product as $item)
+                    <div class="item {{$item['id']==1?'active':''}}">
+                        <img class="slider_img" src="{{$item['Gallery']}}" ->
+                        <div class="carousel-caption slider-text">
+                            <h1> {{$item['Name']}} </h1>
+                            <p> {{$item['Description']}} </p>
 
-                <div class="item">
-                    <img src="chicago.jpg" alt="Chicago"->
-                </div>
+                        </div>
+                    </div>
+                @endforeach
 
-                <div class="item">
-                    <img src="ny.jpg" alt="New York">
-                </div>
             </div>
 
             <!-- Left and right controls -->
@@ -35,7 +35,17 @@
                 <span class="sr-only">Next</span>
             </a>
         </div>
+        <div  class="trending-wrapper">
+            <h3> Trending Products </h3>
+            @foreach($product as $item)
+                <div class="trending-item">
+                    <img class="trending-image" src="{{$item['Gallery']}}" ->
+                    <div class="">
+                        <h1>   {{$item['Name']}} </h1>
+                    </div>
+                 </div>
 
+            @endforeach
     </div>
 
 @endsection
