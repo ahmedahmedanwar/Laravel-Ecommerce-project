@@ -31,7 +31,7 @@
         background-color: #e7e7e7;
     }
     img.slider_img{
-        height: 400px !important;
+        height: 300px !important;
     }
 
     .custom-product{
@@ -51,6 +51,9 @@
     }
     .trending-wrapper{
         margin: 30px;
+    }
+    .details-img{
+        height: 250px;
     }
 
 
