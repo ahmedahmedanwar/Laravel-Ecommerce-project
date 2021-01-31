@@ -40,6 +40,7 @@
     }
     .slider-text{
         background-color: #35443585;
+
     }
 
    .trending-image {
@@ -55,8 +56,17 @@
     .details-img{
         height: 250px;
     }
-
-
+    .search-box{
+        width: 600px !important;
+    }
+    h2, h1 {
+        font-size: 20px;
+        font-family: monospace;
+    }
+    .h3, h3 {
+        font-size: 24px;
+        color: gray;
+    }
 </style>
 
 </html>
