@@ -19,14 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbe465f-f1be-4603-b982-30b36901d1ad" name="Default Changelist" comment="&quot;Adding details page and fixing Bugs&quot;">
-      <change afterPath="$PROJECT_DIR$/resources/views/search.blade.php" afterDir="false" />
+    <list default="true" id="0dbe465f-f1be-4603-b982-30b36901d1ad" name="Default Changelist" comment="SearchBar Generating">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ProductController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ProductController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/footer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/footer.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/header.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/master.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/master.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/search.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/search.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -232,7 +228,8 @@
       <workItem from="1612006419787" duration="17189000" />
       <workItem from="1612050538904" duration="230000" />
       <workItem from="1612076983414" duration="539000" />
-      <workItem from="1612087729351" duration="12180000" />
+      <workItem from="1612087729351" duration="12226000" />
+      <workItem from="1612179546700" duration="2101000" />
     </task>
     <task id="LOCAL-00001" summary="after login work">
       <created>1611746491259</created>
@@ -283,7 +280,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612099303627</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="SearchBar Generating">
+      <created>1612110104910</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1612110104910</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -308,7 +312,8 @@
     <MESSAGE value="New commit000hklh" />
     <MESSAGE value="Fixing Carousel class and Make database products" />
     <MESSAGE value="&quot;Adding details page and fixing Bugs&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Adding details page and fixing Bugs&quot;" />
+    <MESSAGE value="SearchBar Generating" />
+    <option name="LAST_COMMIT_MESSAGE" value="SearchBar Generating" />
   </component>
   <component name="WindowStateProjectService">
     <state x="434" y="125" key="#Inspections" timestamp="1611575849434">
@@ -323,10 +328,10 @@
       <screen x="0" y="23" width="1600" height="833" />
     </state>
     <state x="309" y="78" key="SettingsEditor/0.23.1600.833@0.23.1600.833" timestamp="1611674802347" />
-    <state x="400" y="179" key="Vcs.Push.Dialog.v2" timestamp="1612099313255">
+    <state x="400" y="179" key="Vcs.Push.Dialog.v2" timestamp="1612110121565">
       <screen x="0" y="23" width="1600" height="833" />
     </state>
-    <state x="400" y="179" key="Vcs.Push.Dialog.v2/0.23.1600.833@0.23.1600.833" timestamp="1612099313255" />
+    <state x="400" y="179" key="Vcs.Push.Dialog.v2/0.23.1600.833@0.23.1600.833" timestamp="1612110121565" />
     <state x="507" y="194" width="586" height="490" key="find.popup" timestamp="1612032049344">
       <screen x="0" y="23" width="1600" height="833" />
     </state>

@@ -65,7 +65,7 @@
     }
     .h3, h3 {
         font-size: 24px;
-        color: gray;
+        color: cornflowerblue;
     }
 </style>
 
