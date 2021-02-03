@@ -19,10 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbe465f-f1be-4603-b982-30b36901d1ad" name="Default Changelist" comment="SearchBar Generating">
+    <list default="true" id="0dbe465f-f1be-4603-b982-30b36901d1ad" name="Default Changelist" comment="Make cart migration">
+      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/master.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/master.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/search.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/search.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -229,7 +228,13 @@
       <workItem from="1612050538904" duration="230000" />
       <workItem from="1612076983414" duration="539000" />
       <workItem from="1612087729351" duration="12226000" />
-      <workItem from="1612179546700" duration="2101000" />
+      <workItem from="1612179546700" duration="2746000" />
+      <workItem from="1612261849375" duration="499000" />
+      <workItem from="1612267068270" duration="695000" />
+      <workItem from="1612273822230" duration="1295000" />
+      <workItem from="1612275471766" duration="2205000" />
+      <workItem from="1612280108315" duration="1684000" />
+      <workItem from="1612350501577" duration="875000" />
     </task>
     <task id="LOCAL-00001" summary="after login work">
       <created>1611746491259</created>
@@ -287,7 +292,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612110104910</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Make cart migration">
+      <created>1612192129143</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1612192129143</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -313,7 +325,8 @@
     <MESSAGE value="Fixing Carousel class and Make database products" />
     <MESSAGE value="&quot;Adding details page and fixing Bugs&quot;" />
     <MESSAGE value="SearchBar Generating" />
-    <option name="LAST_COMMIT_MESSAGE" value="SearchBar Generating" />
+    <MESSAGE value="Make cart migration" />
+    <option name="LAST_COMMIT_MESSAGE" value="Make cart migration" />
   </component>
   <component name="WindowStateProjectService">
     <state x="434" y="125" key="#Inspections" timestamp="1611575849434">
@@ -328,10 +341,10 @@
       <screen x="0" y="23" width="1600" height="833" />
     </state>
     <state x="309" y="78" key="SettingsEditor/0.23.1600.833@0.23.1600.833" timestamp="1611674802347" />
-    <state x="400" y="179" key="Vcs.Push.Dialog.v2" timestamp="1612110121565">
+    <state x="400" y="179" key="Vcs.Push.Dialog.v2" timestamp="1612192138746">
       <screen x="0" y="23" width="1600" height="833" />
     </state>
-    <state x="400" y="179" key="Vcs.Push.Dialog.v2/0.23.1600.833@0.23.1600.833" timestamp="1612110121565" />
+    <state x="400" y="179" key="Vcs.Push.Dialog.v2/0.23.1600.833@0.23.1600.833" timestamp="1612192138746" />
     <state x="507" y="194" width="586" height="490" key="find.popup" timestamp="1612032049344">
       <screen x="0" y="23" width="1600" height="833" />
     </state>
